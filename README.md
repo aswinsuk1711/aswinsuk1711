@@ -33,5 +33,4 @@ Full-Stack Software Engineer based in Chennai, India. I build healthcare product
 - 💼 Software Engineer at Algorithm Health (IIT Madras Research Park incubate)  
 - 🏢 Previously at Amazon — ML Data Operations & Retail Process  
 - 🌱 Currently deepening expertise in system design, DSA, and AI integrations  
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/aswin-suk) · [sukaswin1711@outlook.com](mailto:sukaswin1711@outlook.com)
-
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/aswin-sukumaran-453662170) · [sukaswin1711@outlook.com](mailto:sukaswin1711@outlook.com)
